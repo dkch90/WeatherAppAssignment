@@ -1,0 +1,12 @@
+{
+  "name": "WeatherAppAssignment",
+  "displayName": "WeatherAppAssignment",
+  "expo": {
+    "name": "WeatherAppAssignment",
+    "slug": "WeatherAppAssignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
